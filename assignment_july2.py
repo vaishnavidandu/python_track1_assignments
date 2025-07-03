@@ -1,5 +1,5 @@
 # 1 que----- variables
-#variables are used to store the values
+#variables are used to refer the  stored values and flexible to change
 
 a=2
 b=9
