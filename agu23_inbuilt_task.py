@@ -1,6 +1,4 @@
-#string----mutable and inmutable
-#when we assign only once if we want to replace  the we cant replace it in middle 
-#replace also can make diff
+#string---- inmutable
 
 #case-conversions-builtin fun
 #lower,upper,islower,isupper,swapcase,len,captlize
@@ -165,6 +163,7 @@ print(a.isdisjoint(b))   #True
 def  square(x):
     return x**2
 print(list(map(square,[2,3,4])))   #[4, 9, 16]
+
 
 
 
